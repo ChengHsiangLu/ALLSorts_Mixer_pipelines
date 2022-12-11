@@ -1,6 +1,7 @@
 # Build bioinformatics pipelines to improve efficiency and reduce time with Docker and Nextflow in AWS
 
 <br>
+
 ## Author
 
 Sam (Cheng-Hsiang) Lu 
